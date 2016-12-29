@@ -1,0 +1,12 @@
+nav {
+	background-color: transparent;
+	box-shadow: none;
+}
+
+nav ul a {
+	color: #444;
+}
+
+nav ul a:hover {
+	background-color: transparent;
+}
