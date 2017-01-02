@@ -35,6 +35,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+.footer-copyright {
+	background-color: white;
+}
+
 .copyright {
 	color: #848484;
 }
