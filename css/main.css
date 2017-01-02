@@ -19,16 +19,15 @@ select {
 	width: 67%;
 }
 
-h4 {
+h5 {
 	color: #7E7E7E;
 	font-size: 15px;
-	padding: 10px;
 }
 
 a {
-	color: #838383;
+	color: #848484;
 	font-size: 13px;
-	padding: 10px;
+	
 }
 
 a:hover {
@@ -37,4 +36,5 @@ a:hover {
 
 .copyright {
 	color: #848484;
+	padding: 10px;
 }
