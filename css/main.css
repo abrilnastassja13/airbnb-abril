@@ -11,6 +11,30 @@ nav ul a:hover {
 	background-color: transparent;
 }
 
+footer.page-footer {
+	background-color: white;
+}
+
 select {
-	width: 18%;
+	width: 16%;
+}
+
+h4 {
+	color: #7E7E7E;
+	font-size: 15px;
+	padding: 10px;
+}
+
+a {
+	color: #838383;
+	font-size: 13px;
+	padding: 10px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.copyright {
+	color: #848484;
 }
